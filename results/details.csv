@@ -1,0 +1,501 @@
+totals_transactions,transaction_details.date_formatted,transaction_details.geoNetwork_country
+4,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/18/2016,Venezuela
+,8/24/2016,Venezuela
+,8/24/2016,Venezuela
+,8/24/2016,Venezuela
+,8/24/2016,Venezuela
+,8/24/2016,Venezuela
+,8/24/2016,Venezuela
+,8/24/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,12/20/2016,United States
+,12/20/2016,United States
+,12/20/2016,United States
+,12/20/2016,United States
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/6/2017,Venezuela
+,3/20/2017,Venezuela
+,3/20/2017,Venezuela
+,3/20/2017,Venezuela
+,3/20/2017,Venezuela
+,3/22/2017,United States
+,3/22/2017,United States
+,3/22/2017,United States
+,3/22/2017,United States
+,4/19/2017,United States
+,4/19/2017,United States
+,4/19/2017,United States
+,4/19/2017,United States
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/2/2017,United Kingdom
+,5/8/2017,United States
+,5/8/2017,United States
+,5/8/2017,United States
+,5/8/2017,United States
+,5/8/2017,United States
+,5/8/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/10/2017,United States
+,7/17/2017,United States
+,7/17/2017,United States
+,7/17/2017,United States
+,7/17/2017,United States
+,7/17/2017,United States
+,7/17/2017,United States
+,7/17/2017,United States
+,7/17/2017,United States
+,7/28/2017,United States
+,7/28/2017,United States
+,7/28/2017,United States
+,7/28/2017,United States
+5,8/14/2016,Venezuela
+,8/14/2016,Venezuela
+,8/14/2016,Venezuela
+,8/14/2016,Venezuela
+,8/14/2016,Venezuela
+,8/14/2016,Venezuela
+,8/14/2016,Venezuela
+,8/14/2016,Venezuela
+,8/14/2016,Venezuela
+,8/14/2016,Venezuela
+,9/13/2016,United States
+,9/13/2016,United States
+,9/13/2016,United States
+,9/13/2016,United States
+,9/13/2016,United States
+,9/13/2016,United States
+,9/13/2016,United States
+,9/13/2016,United States
+,9/13/2016,United States
+,9/13/2016,United States
+,9/28/2016,United States
+,9/28/2016,United States
+,9/28/2016,United States
+,9/28/2016,United States
+,9/28/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/21/2016,United States
+,10/31/2016,United States
+,10/31/2016,United States
+,10/31/2016,United States
+,10/31/2016,United States
+,10/31/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/17/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,11/30/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/14/2016,United States
+,12/14/2016,United States
+,12/14/2016,United States
+,12/14/2016,United States
+,12/14/2016,United States
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,12/14/2016,Canada
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+,6/11/2017,United States
+15,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+,5/31/2017,United States
+23,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+,3/3/2017,United States
+3,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/11/2016,United States
+,8/15/2016,United States
+,8/15/2016,United States
+,8/15/2016,United States
+,8/15/2016,United States
+,8/16/2016,United States
+,8/16/2016,United States
+,8/16/2016,United States
+,8/16/2016,United States
+,8/16/2016,United States
+,8/16/2016,United States
+,8/16/2016,United States
+,8/16/2016,United States
+,8/17/2016,Venezuela
+,8/17/2016,Venezuela
+,8/17/2016,Venezuela
+,8/19/2016,United States
+,8/19/2016,United States
+,8/19/2016,United States
+,8/19/2016,United States
+,8/19/2016,United States
+,8/19/2016,United States
+,8/25/2016,United States
+,8/25/2016,United States
+,8/25/2016,United States
+,8/25/2016,United States
+,8/25/2016,United States
+,8/25/2016,United States
+,8/25/2016,United States
+,8/25/2016,United States
+,8/25/2016,United States
+,8/25/2016,United States
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/26/2016,Venezuela
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,8/31/2016,United States
+,9/8/2016,United States
+,9/8/2016,United States
+,9/8/2016,United States
+,9/14/2016,United States
+,9/14/2016,United States
+,9/14/2016,United States
+,9/20/2016,United States
+,9/20/2016,United States
+,9/20/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/3/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,10/20/2016,United States
+,11/3/2016,United States
+,11/3/2016,United States
+,11/3/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/8/2016,United States
+,11/15/2016,United States
+,11/15/2016,United States
+,11/15/2016,United States
+,11/27/2016,United States
+,11/27/2016,United States
+,11/27/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,11/29/2016,United States
+,12/9/2016,United States
+,12/9/2016,United States
+,12/9/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/11/2016,United States
+,12/15/2016,United States
+,12/15/2016,United States
+,12/15/2016,United States
+,12/18/2016,United States
+,12/18/2016,United States
+,12/18/2016,United States
+,12/18/2016,United States
+,12/18/2016,United States
+,12/19/2016,United States
+,12/19/2016,United States
+,12/19/2016,United States
+,12/19/2016,United States
+,12/19/2016,United States
+,12/19/2016,United States
+,12/19/2016,United States
