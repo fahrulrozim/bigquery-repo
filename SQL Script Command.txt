@@ -25,11 +25,19 @@
 -- DROP COLUMN date;
 
 -- Total transactions per date and country based on the channel grouping
-CREATE OR REPLACE TABLE `psychic-force-362917.test_data_fellowship_7.details`
+-- CREATE OR REPLACE TABLE `psychic-force-362917.test_data_fellowship_7.details`
+-- AS
+-- SELECT 
+--   totals_transactions,
+--   ARRAY_AGG(STRUCT(date_formatted, geoNetwork_country) ORDER BY date_formatted ASC) as transaction_details
+-- FROM
+--   `psychic-force-362917.test_data_fellowship_7.date_formatted`
+-- GROUP BY totals_transactions;
+
+CREATE OR REPLACE TABLE `psychic-force-362917.test_data_fellowship_7.detail_transactions`
 AS
-SELECT 
-  totals_transactions,
-  ARRAY_AGG(STRUCT(date_formatted, geoNetwork_country) ORDER BY date_formatted ASC) as transaction_details
-FROM
+SELECT COUNT(totals_transactions) as count_transactions,
+  ARRAY_AGG(STRUCT(geoNetwork_country, date_formatted) ORDER BY date_formatted ASC) as transactions_country
+FROM 
   `psychic-force-362917.test_data_fellowship_7.date_formatted`
 GROUP BY totals_transactions;
